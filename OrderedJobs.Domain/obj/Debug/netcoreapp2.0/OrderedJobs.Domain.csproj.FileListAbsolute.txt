@@ -1,0 +1,11 @@
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/obj/Debug/netcoreapp2.0/OrderedJobs.Domain.csproj.CoreCompileInputs.cache
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/obj/Debug/netcoreapp2.0/OrderedJobs.Domain.AssemblyInfoInputs.cache
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/obj/Debug/netcoreapp2.0/OrderedJobs.Domain.AssemblyInfo.cs
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/bin/Debug/netcoreapp2.0/OrderedJobs.Domain.deps.json
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/bin/Debug/netcoreapp2.0/OrderedJobs.Domain.dll
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/bin/Debug/netcoreapp2.0/OrderedJobs.Domain.pdb
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/bin/Debug/netcoreapp2.0/OrderedJobs.Data.dll
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/bin/Debug/netcoreapp2.0/OrderedJobs.Data.pdb
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/obj/Debug/netcoreapp2.0/OrderedJobs.Domain.csproj.CopyComplete
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/obj/Debug/netcoreapp2.0/OrderedJobs.Domain.dll
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Domain/obj/Debug/netcoreapp2.0/OrderedJobs.Domain.pdb

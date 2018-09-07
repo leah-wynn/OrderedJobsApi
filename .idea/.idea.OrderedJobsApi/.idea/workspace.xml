@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f53d24f-ca7e-45c3-9379-9ed1870db22a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="OrderJobs.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OrderedJobs.Domain/OrderJobs.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <marker date="1536324950961" expanded="false" signature="6:120" ph="..." />
+                <marker date="1536324950961" expanded="true" signature="150:2256" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="181:2254" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="237:306" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="363:488" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="537:606" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="676:800" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="862:2033" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="1150:1810" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="1256:1795" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="1355:1496" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="1636:1777" ph="{...}" />
+                <marker date="1536324950961" expanded="true" signature="2089:2248" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MongoDb.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OrderedJobs.Data/MongoDb.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding>
+                <marker date="1536324950964" expanded="true" signature="41:170" ph="{...}" />
+                <marker date="1536324950964" expanded="true" signature="68:168" ph="{...}" />
+                <marker date="1536324950964" expanded="true" signature="117:162" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderedJobsController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Controllers/OrderedJobsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <marker date="1536266618794" expanded="false" signature="6:61" ph="..." />
+                <marker date="1536266618794" expanded="true" signature="100:400" ph="{...}" />
+                <marker date="1536266618794" expanded="true" signature="185:398" ph="{...}" />
+                <marker date="1536266618794" expanded="true" signature="300:392" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestsController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Controllers/TestsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <folding>
+                <marker date="1536324776489" expanded="false" signature="6:157" ph="..." />
+                <marker date="1536324776489" expanded="true" signature="197:772" ph="{...}" />
+                <marker date="1536324776489" expanded="true" signature="270:770" ph="{...}" />
+                <marker date="1536324776489" expanded="true" signature="348:427" ph="{...}" />
+                <marker date="1536324776489" expanded="true" signature="533:612" ph="{...}" />
+                <marker date="1536324776489" expanded="true" signature="686:764" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <marker date="1536266461840" expanded="false" signature="6:249" ph="..." />
+                <marker date="1536266461840" expanded="true" signature="276:1029" ph="{...}" />
+                <marker date="1536266461840" expanded="true" signature="303:1027" ph="{...}" />
+                <marker date="1536266461840" expanded="true" signature="318:533" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1536266461840" expanded="true" signature="600:651" ph="{...}" />
+                <marker date="1536266461840" expanded="true" signature="839:1021" ph="{...}" />
+                <marker date="1536266461840" expanded="true" signature="886:963" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Job.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OrderedJobs.Domain/Job.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <marker date="1536159641599" expanded="false" signature="6:66" ph="..." />
+                <marker date="1536159641599" expanded="true" signature="96:1198" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="119:959" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="201:404" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="315:394" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="522:582" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="619:679" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="740:813" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="880:953" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="1005:1196" ph="{...}" />
+                <marker date="1536159641599" expanded="true" signature="1122:1189" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Data/MongoDb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Web/Controllers/TestsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Web/Controllers/OrderedJobsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Test/DomainTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Domain/Job.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedJobs.Domain/OrderJobs.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OrderedJobs.Test/Class1.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Web/ConfigureServices.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Web/Configure.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Domain/EndPoint.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Domain/OrderedJobTest.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Domain/Job.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Web/Controllers/OrderedJobsController.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Test/DomainTests.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Web/Controllers/TestsController.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Data/MongoDB.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Domain/OrderedJobs.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Data/MongoDb.cs" />
+        <option value="$PROJECT_DIR$/OrderedJobs.Domain/OrderJobs.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="857" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OrderedJobsApi (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OrderedJobsApi (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OrderedJobs.Data" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OrderedJobsApi (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OrderedJobs.Domain" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OrderedJobsApi (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OrderedJobs.Test" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OrderedJobsApi (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OrderedJobs.Web" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OrderedJobsApi (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OrderedJobs.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/OrderedJobs.Web/bin/Debug/netcoreapp2.0/OrderedJobs.Web.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrderedJobs.Web" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OrderedJobs.Web/OrderedJobs.Web.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f53d24f-ca7e-45c3-9379-9ed1870db22a" name="Default" comment="" />
+      <created>1534942150257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534942150257</updated>
+      <workItem from="1534942151680" duration="693000" />
+      <workItem from="1534967778590" duration="19610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20303000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1436" height="857" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32998565" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.24868421" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42105263" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Change Signature" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25681493" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.3276316" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Test/Program.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Test/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Test/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Test/Program.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1534942152863" expanded="true" signature="6:255" ph="..." />
+            <marker date="1534942152863" expanded="true" signature="282:603" ph="{...}" />
+            <marker date="1534942152863" expanded="true" signature="309:601" ph="{...}" />
+            <marker date="1534942152863" expanded="true" signature="362:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Configure.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Test/DomainTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="14" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+          <folding>
+            <marker date="1536324209916" expanded="true" signature="6:36" ph="..." />
+            <marker date="1536324209916" expanded="true" signature="64:2674" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="113:2672" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="282:436" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="492:636" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="711:833" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="909:1037" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="1113:1241" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="1321:1465" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="1540:1686" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="1760:1916" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="1995:2171" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="2248:2396" ph="{...}" />
+            <marker date="1536324209916" expanded="true" signature="2465:2666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1536266461840" expanded="false" signature="6:249" ph="..." />
+            <marker date="1536266461840" expanded="true" signature="276:1029" ph="{...}" />
+            <marker date="1536266461840" expanded="true" signature="303:1027" ph="{...}" />
+            <marker date="1536266461840" expanded="true" signature="318:533" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1536266461840" expanded="true" signature="600:651" ph="{...}" />
+            <marker date="1536266461840" expanded="true" signature="839:1021" ph="{...}" />
+            <marker date="1536266461840" expanded="true" signature="886:963" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Controllers/OrderedJobsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <marker date="1536266618794" expanded="false" signature="6:61" ph="..." />
+            <marker date="1536266618794" expanded="true" signature="100:400" ph="{...}" />
+            <marker date="1536266618794" expanded="true" signature="185:398" ph="{...}" />
+            <marker date="1536266618794" expanded="true" signature="300:392" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Web/Controllers/TestsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <marker date="1536324776489" expanded="false" signature="6:157" ph="..." />
+            <marker date="1536324776489" expanded="true" signature="197:772" ph="{...}" />
+            <marker date="1536324776489" expanded="true" signature="270:770" ph="{...}" />
+            <marker date="1536324776489" expanded="true" signature="348:427" ph="{...}" />
+            <marker date="1536324776489" expanded="true" signature="533:612" ph="{...}" />
+            <marker date="1536324776489" expanded="true" signature="686:764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Domain/Job.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <marker date="1536159641599" expanded="false" signature="6:66" ph="..." />
+            <marker date="1536159641599" expanded="true" signature="96:1198" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="119:959" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="201:404" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="315:394" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="522:582" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="619:679" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="740:813" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="880:953" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="1005:1196" ph="{...}" />
+            <marker date="1536159641599" expanded="true" signature="1122:1189" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Data/MongoDb.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <marker date="1536324950964" expanded="true" signature="41:170" ph="{...}" />
+            <marker date="1536324950964" expanded="true" signature="68:168" ph="{...}" />
+            <marker date="1536324950964" expanded="true" signature="117:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderedJobs.Domain/OrderJobs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <marker date="1536324950961" expanded="false" signature="6:120" ph="..." />
+            <marker date="1536324950961" expanded="true" signature="150:2256" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="181:2254" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="237:306" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="363:488" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="537:606" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="676:800" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="862:2033" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="1150:1810" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="1256:1795" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="1355:1496" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="1636:1777" ph="{...}" />
+            <marker date="1536324950961" expanded="true" signature="2089:2248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
