@@ -1,0 +1,8 @@
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/bin/Debug/netstandard1.5/OrderedJobs.Data.deps.json
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/bin/Debug/netstandard1.5/OrderedJobs.Data.dll
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/bin/Debug/netstandard1.5/OrderedJobs.Data.pdb
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/obj/Debug/netstandard1.5/OrderedJobs.Data.csproj.CoreCompileInputs.cache
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/obj/Debug/netstandard1.5/OrderedJobs.Data.AssemblyInfoInputs.cache
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/obj/Debug/netstandard1.5/OrderedJobs.Data.AssemblyInfo.cs
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/obj/Debug/netstandard1.5/OrderedJobs.Data.dll
+/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/obj/Debug/netstandard1.5/OrderedJobs.Data.pdb

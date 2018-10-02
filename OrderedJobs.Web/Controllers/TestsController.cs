@@ -12,18 +12,19 @@ namespace OrderedJobs.Web.Controllers
     {
 
         [HttpGet]
-        public async Task<string> GetAllTestsAsync()
+        public async Task<List<string>> GetAllTestsAsync()
         {
             return await Domain.OrderedJobs.GetAllTests();
         }
-        
-        [HttpPost("{dependencies}")]
-        public async Task<string> AddTestAsync(string test)
+            
+        [HttpPost]
+        public void AddTestAsync([FromBody] string test)
         {
-            return await Domain.OrderedJobs.AddTest(test);
+             Domain.OrderedJobs.AddTest(test);
         }
+        
         [HttpDelete]
-        public async Task<string> DeleteTestsAsync()
+        public async Task<bool> DeleteTestsAsync()
         {
             return await Domain.OrderedJobs.DeleteTest();
         }

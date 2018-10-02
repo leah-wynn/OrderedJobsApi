@@ -6,14 +6,19 @@
     "projectPath": "/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/OrderedJobs.Data.csproj",
     "outputPath": "/Users/leah/RiderProjects/OrderedJobsApi/OrderedJobs.Data/obj/",
     "projectStyle": "PackageReference",
+    "crossTargeting": true,
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.0"
+      "netcoreapp2.0",
+      "netstandard1.5"
     ],
     "frameworks": {
       "netcoreapp2.0": {
+        "projectReferences": {}
+      },
+      "netstandard1.5": {
         "projectReferences": {}
       }
     },
@@ -46,6 +51,24 @@
       ],
       "assetTargetFallback": true,
       "warn": true
+    },
+    "netstandard1.5": {
+      "dependencies": {
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.7.0, )"
+        },
+        "MongoDB.Driver.Core": {
+          "target": "Package",
+          "version": "[2.7.0, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[1.6.1, )",
+          "autoReferenced": true
+        }
+      }
     }
   }
 }

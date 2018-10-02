@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using OrderedJobs.Data;
 
@@ -9,20 +10,19 @@ namespace OrderedJobs.Domain
     public class OrderedJobs
     {
 
-        public static Task<string> GetAllTests()
+        public static Task<List<string>> GetAllTests()
         {
-            throw new NotImplementedException();
+            return new DataFunctions().GetTests();
         }
 
-        public static Task<string> AddTest(string test)
+        public static void AddTest(string test)
         {
-            var addedTest = new MongoDb().AddTest(test);
-            return  Task.FromResult(addedTest);
+            new DataFunctions().AddTest(test);
         }
 
-        public static Task<string> DeleteTest()
+        public static Task<bool> DeleteTest()
         {
-            throw new NotImplementedException();
+            return Task.FromResult(new DataFunctions().DeleteTests());
         }
 
         public static Task<string> OrderTheJobs(string dependencies)
@@ -69,6 +69,13 @@ namespace OrderedJobs.Domain
             var jobs = input.Where(char.IsLetter);
             var jobList = string.Join("", jobs.Distinct());
             return jobList;
+        }
+
+        public static Task<string> TestJobsOrdering(string url)
+        {
+            var client = new HttpClient();
+            var allTests = client.GetAsync(url).Result.Content.ReadAsStringAsync().Result;
+            return Task.FromResult(allTests);
         }
     }
 }
